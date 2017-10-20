@@ -15,6 +15,7 @@ We have selected option 2 as our path forward.
 We have choosen the UCI Machine Learning Repository for our datasets are available [here](http://archive.ics.uci.edu/ml/index.php).
 
 1. Car Evaluation - Informed Decision Tool for Consumers
+
    Car Evaluation Database was derived from a simple hierarchical decision model originally developed for the demonstration of DEX
    (M. Bohanec, V. Rajkovic: Expert system for decision making. Sistemica 1(1), pp. 145-157, 1990.). 
    
@@ -25,13 +26,15 @@ We have choosen the UCI Machine Learning Repository for our datasets are availab
    structure discovery methods. for more information go [here](http://archive.ics.uci.edu/ml/datasets/Car+Evaluation)
 
 2. A Dataset For Music Analysis - Decison Tool for Mobile DJ/MC's
+
    Audio track (encoded as mp3) of each of the 106,574 tracks. It is on average 10 millions samples per track.
    Nine audio features (consisting of 518 attributes) for each of the 106,574 tracks.
    Given the metadata, multiple problems can be explored: recommendation, genre recognition, artist identification, year prediction,
    music annotation, unsupervized categorization. The dataset is split into four sizes: small, medium, large, full.
    Please see the paper and the GitHub repository for more information go [here](https://github.com/mdeff/fma)
    
-3. Abalone Data Set - Age Determination Tool for Marine Sciencetist
+3. Abalone Data Set - Marine Life age determination Tool
+
    Predicting the age of abalone from physical measurements.  The age of abalone is determined by cutting the shell through the cone,
    staining it, and counting the number of rings through a microscope -- a boring and time-consuming task.  Other measurements, which
    are easier to obtain, are used to predict the age.  Further information, such as weather patterns and location (hence food
