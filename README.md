@@ -39,6 +39,4 @@ We have choosen the UCI Machine Learing Repository for our datasets are availabl
    having the predicted value missing), and the ranges of the continuous values have been scaled for use with an ANN (by dividing by
    200). For more information go [here](http://archive.ics.uci.edu/ml/datasets/Abalone)
 
-In Summary please review the following topic for Capstone Project consideration. This simple markdown document with the help
-   of Guy Maskall. He made learning R Markdown really, really easy! (Just don't foreget to beware of using blank lines before,
-   particularly, enumerated list items!)
+In summary please review the following dataset/topic for Capstone Project consideration. Additionally, this simple markdown document with the help of Guy Maskall. He made learning R Markdown really, really easy! (Just don't foreget to beware of using blank lines before, particularly, enumerated list items!)
