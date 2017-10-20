@@ -25,7 +25,7 @@ We have choosen the UCI Machine Learning Repository for our datasets are availab
    Because of known underlying concept structure, this database may be particularly useful for testing constructive induction and
    structure discovery methods. for more information go [here](http://archive.ics.uci.edu/ml/datasets/Car+Evaluation)
 
-2. A Dataset For Music Analysis - Decison Tool for Mobile DJ/MC's
+2. A Dataset For Music Analysis - Decison Tool for Mobile DJ/MC's for record promotion and selection.
 
    Audio track (encoded as mp3) of each of the 106,574 tracks. It is on average 10 millions samples per track.
    Nine audio features (consisting of 518 attributes) for each of the 106,574 tracks.
