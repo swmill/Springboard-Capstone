@@ -12,16 +12,15 @@ Then Work with your mentor to scope it down, and then look for a data set that s
 We have selected option 2 as our path forward.
 
 ## Dataset for Consideration
-We have choosen the UCI Machine Learing Repository for our datasets. Available [here](http://archive.ics.uci.edu/ml/index.php).
-Topics
+We have choosen the UCI Machine Learing Repository for our datasets are available [here](http://archive.ics.uci.edu/ml/index.php).
 
 1. Car Evaluation 
    Car Evaluation Database was derived from a simple hierarchical decision model originally developed for the demonstration of DEX
    (M. Bohanec, V. Rajkovic: Expert system for decision making. Sistemica 1(1), pp. 145-157, 1990.). 
    
-   The Car Evaluation Database contains examples with the structural information removed, i.e., directly relates CAR to the six input
+   The Car Evaluation Database contains examples with the structural information removed, i.e., directly relates CAR to the six input
    attributes: buying, maint, doors, persons, lug_boot, safety.
-
+   
    Because of known underlying concept structure, this database may be particularly useful for testing constructive induction and
    structure discovery methods. for more information go [here](http://archive.ics.uci.edu/ml/datasets/Car+Evaluation)
 
@@ -40,6 +39,6 @@ Topics
    having the predicted value missing), and the ranges of the continuous values have been scaled for use with an ANN (by dividing by
    200). For more information go [here](http://archive.ics.uci.edu/ml/datasets/Abalone)
 
-##  In Summary please review the following topic for Capstone Project consideration. This simple markdown document created by the help
+In Summary please review the following topic for Capstone Project consideration. This simple markdown document with the help
    of Guy Maskall. He made learning R Markdown really, really easy! (Just don't foreget to beware of using blank lines before,
    particularly, enumerated list items!)
