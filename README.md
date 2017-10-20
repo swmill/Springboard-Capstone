@@ -12,7 +12,7 @@ Then Work with your mentor to scope it down, and then look for a data set that s
 We have selected option 2 as our path forward.
 
 ## Dataset for Consideration
-I choose the UCI Machine Learning Repository for the datasets. Those data are available [here](http://archive.ics.uci.edu/ml/index.php).
+I chose the UCI Machine Learning Repository for the datasets. Those data are available [here](http://archive.ics.uci.edu/ml/index.php).
 
 1. Car Evaluation - Informed Decision Tool for Consumers
 
