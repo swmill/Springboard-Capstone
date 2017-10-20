@@ -12,7 +12,7 @@ Then Work with your mentor to scope it down, and then look for a data set that s
 We have selected option 2 as our path forward.
 
 ## Dataset for Consideration
-We have choosen the UCI Machine Learning Repository for our datasets are available [here](http://archive.ics.uci.edu/ml/index.php).
+I choose the UCI Machine Learning Repository for the datasets. Those data are available [here](http://archive.ics.uci.edu/ml/index.php).
 
 1. Car Evaluation - Informed Decision Tool for Consumers
 
@@ -23,7 +23,7 @@ We have choosen the UCI Machine Learning Repository for our datasets are availab
    attributes: buying, maint, doors, persons, lug_boot, safety.
    
    Because of known underlying concept structure, this database may be particularly useful for testing constructive induction and
-   structure discovery methods. for more information go [here](http://archive.ics.uci.edu/ml/datasets/Car+Evaluation)
+   structure discovery methods. For more information go [here](http://archive.ics.uci.edu/ml/datasets/Car+Evaluation)
 
 2. A Dataset For Music Analysis - Decison Tool for Mobile DJ/MC's for record promotion and selection.
 
@@ -31,7 +31,7 @@ We have choosen the UCI Machine Learning Repository for our datasets are availab
    Nine audio features (consisting of 518 attributes) for each of the 106,574 tracks.
    Given the metadata, multiple problems can be explored: recommendation, genre recognition, artist identification, year prediction,
    music annotation, unsupervized categorization. The dataset is split into four sizes: small, medium, large, full.
-   Please see the paper and the GitHub repository for more information go [here](https://github.com/mdeff/fma)
+   Please see the paper and the GitHub repository. For more information go [here](https://github.com/mdeff/fma)
    
 3. Abalone Data Set - Marine Life age determination Tool
 
