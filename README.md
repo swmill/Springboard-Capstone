@@ -2,7 +2,7 @@
 ## Capstone Project
 Develop three broad ideas for your Capstone Project
 
-## Areas of Interest
+## Selection Process
 Notice how two hash marks (pounds to Americans) make a level 2 heading. 
 I can also make links, for example to my main profile as [here](https://github.com/swmill). 
 nd I can make bulleted lists as well:
