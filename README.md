@@ -15,22 +15,31 @@ We have selected option 2 as our path forward.
 We have choosen the UCI Machine Learing Repository for our datasets. Available [here](http://archive.ics.uci.edu/ml/index.php).
 Topics
 
-1. Evaluation Database was derived from a simple hierarchical
-   decision model originally developed for the demonstration of DEX
-   (M. Bohanec, V. Rajkovic: Expert system for decision
-   making. Sistemica 1(1), pp. 145-157, 1990.). The model evaluates
-   cars according to the following concept structure:
+1. Car Evaluation 
+   Car Evaluation Database was derived from a simple hierarchical decision model originally developed for the demonstration of DEX
+   (M. Bohanec, V. Rajkovic: Expert system for decision making. Sistemica 1(1), pp. 145-157, 1990.). 
+   
+   The Car Evaluation Database contains examples with the structural information removed, i.e., directly relates CAR to the six input
+   attributes: buying, maint, doors, persons, lug_boot, safety.
 
-   CAR                      car acceptability
-   . PRICE                  overall price
-   . . buying               buying price
-   . . maint                price of the maintenance
-   . TECH                   technical characteristics
-   . . COMFORT              comfort
-   . . . doors              number of doors
-   . . . persons            capacity in terms of persons to carry
-   . . . lug_boot           the size of luggage boot
-   . . safety               estimated safety of the car
+   Because of known underlying concept structure, this database may be particularly useful for testing constructive induction and
+   structure discovery methods. for more information go [here](http://archive.ics.uci.edu/ml/datasets/Car+Evaluation)
 
-2.
-## Summary Writing a simple markdown document is really, really easy! (But beware forgetting blank lines before, particularly, enumerated list items!)
+2. A Dataset For Music Analysis 
+   Audio track (encoded as mp3) of each of the 106,574 tracks. It is on average 10 millions samples per track.
+   Nine audio features (consisting of 518 attributes) for each of the 106,574 tracks.
+   Given the metadata, multiple problems can be explored: recommendation, genre recognition, artist identification, year prediction,
+   music annotation, unsupervized categorization. The dataset is split into four sizes: small, medium, large, full.
+   Please see the paper and the GitHub repository for more information go [here](https://github.com/mdeff/fma)
+   
+3. Abalone Data Set
+   Predicting the age of abalone from physical measurements.  The age of abalone is determined by cutting the shell through the cone,
+   staining it, and counting the number of rings through a microscope -- a boring and time-consuming task.  Other measurements, which
+   are easier to obtain, are used to predict the age.  Further information, such as weather patterns and location (hence food
+   availability) may be required to solve the problem. From the original data examples with missing values were removed (the majority
+   having the predicted value missing), and the ranges of the continuous values have been scaled for use with an ANN (by dividing by
+   200). For more information go [here](http://archive.ics.uci.edu/ml/datasets/Abalone)
+
+##  In Summary please review the following topic for Capstone Project consideration. This simple markdown document created by the help
+   of Guy Maskall. He made learning R Markdown really, really easy! (Just don't foreget to beware of using blank lines before,
+   particularly, enumerated list items!)
