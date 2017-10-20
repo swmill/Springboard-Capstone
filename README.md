@@ -1,8 +1,8 @@
-# Springboard Capstone Project Ideas
-## Introduction
-Example muckings about for this and that
+# Springboard Introduction to Data Science
+## Capstone Project
+Develop three broad ideas for your Capstone Project
 
-## Another heading
+## Areas of Interest
 Notice how two hash marks (pounds to Americans) make a level 2 heading. 
 I can also make links, for example to my main profile as [here](https://github.com/swmill). 
 nd I can make bulleted lists as well:
